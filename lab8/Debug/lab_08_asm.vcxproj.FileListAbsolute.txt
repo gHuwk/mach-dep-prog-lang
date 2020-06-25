@@ -1,0 +1,2 @@
+C:\Users\Station_One\source\repos\lab_08_asm\Debug\lab_08_asm.exe
+C:\Users\Station_One\source\repos\lab_08_asm\Debug\lab_08_asm.pdb
